@@ -6,7 +6,7 @@ My Ubisoft Next 2023 submisson
 ### How to play the game
 Note: you have to have visual studio installed. You can install it here: https://visualstudio.microsoft.com/downloads/
 ##### 1. Download zip file:
-Download the file [[Escape-the-Cannon-Bat.zip.zip]] and extract to a loctaion of your choice
+Download the file "Escape-the-Cannon-Bat.zip.zip" and extract to a loctaion of your choice
 
 ##### 2. Open with Viual Studio:
 Open Visual Studio and open the extracted files.
