@@ -14,3 +14,7 @@ Open Visual Studio and open the extracted files.
 ##### 3. Run the Game
 Click the green 'Build' button at the top of the window.
 Note: This game works best with a controller.
+
+#### Some Photos of the game
+![image](https://github.com/2a3s4d/Escape-the-Cannon-Bat/assets/84204533/5a1b3416-ae35-4bfe-bc17-a7ce57dd09d3)
+![image](https://github.com/2a3s4d/Escape-the-Cannon-Bat/assets/84204533/c8f6ada9-6630-415a-88e4-3442a9656226)
